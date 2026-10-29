@@ -1,0 +1,14 @@
+# Artefatos e ambientes locais
+origem/
+artefatos/
+homolog/
+prod/
+backup/
+evidencias/
+target/
+build/
+dist/
+.env
+*.log
+*.jks
+*.keystore
